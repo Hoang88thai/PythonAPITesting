@@ -1,0 +1,4 @@
+527483
+{"status":"true","msg":"Add  data success"}
+{"status":"true","msg":"Add  data success"}
+{"status":"true","data":{"first_name":"Testing","middle_name":"M","last_name":"World1","date_of_birth":"11/11/2000","TechnicalDetails":[{"id":21781,"language":["Java","C#"],"yearexp":"2","lastused":"2019","st_id":"527483"}],"Address":[{"Permanent_Address":{"House_Number":null,"City":null,"State":null,"Country":null,"PhoneNumber":null},"Current_Address":null,"stId":"527483"},{"Permanent_Address":{"House_Number":null,"City":null,"State":null,"Country":null,"PhoneNumber":null},"Current_Address":null,"stId":"527483"}]}}
